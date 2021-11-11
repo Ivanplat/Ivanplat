@@ -1,6 +1,6 @@
 [![Header](https://github.com/Ivanplat/GitHubREADME/blob/main/assets/channels4_banner.jpg)](https://www.youtube.com/channel/UC-_xuBymQHCMbVaQP7_kj9g)  
 
-## I'm a game developer, develop at Unreal Engine 4 and no engine C++, aslo try my best at other languages  
+## I'm a game developer, develop at Unreal Engine 4 and no engine C++, aslo, try my best at other languages  
 
 ## Languages  
 
