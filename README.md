@@ -1,7 +1,8 @@
 [![Header](https://github.com/Ivanplat/Ivanplat/blob/main/assets/channels4_banner.jpg)](https://www.youtube.com/channel/UC-_xuBymQHCMbVaQP7_kj9g)  
 
-
-## I'm a game developer, develop at Unreal Engine 4 and no engine C++, aslo, try my best at other languages  
+## About me    
+I basicly work on C/C++, less C#, even more less Python and TS  
+Main focuses are games development, low-level development: operational systems, drivers, engines, etc.
 
 ## Languages  
 
