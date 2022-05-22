@@ -35,6 +35,10 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam)](https://store.steampowered.com/franchise/EventGraphDev)
 
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 ## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanplat&count_private=true)
