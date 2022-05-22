@@ -7,10 +7,10 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 
 ## Repositories  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=SFMLEngine)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=My-Operational-System)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=My-Files-Controll-System)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=PlatformerGame)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=SFMLEngine)](https://github.com/Ivanplat/SFMLEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=My-Operational-System)](https://github.com/Ivanplat/My-Operational-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=My-Files-Controll-System)](https://github.com/Ivanplat/My-Files-Controll-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=PlatformerGame)](https://github.com/Ivanplat/PlatformerGame)
 
 
 ## Languages  
