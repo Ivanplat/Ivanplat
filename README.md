@@ -38,10 +38,8 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 
 ## Statistics
 
-<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanplat&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanplat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivanplat)](https://git.io/streak-stats)
-</center>
