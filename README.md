@@ -2,7 +2,8 @@
 
 ## About me    
 I basicly work on C/C++, less C#, even more less Python and TS  
-Main focuses are games development, low-level development: operational systems, drivers, engines, etc.
+Main focuses are games development, low-level development: operational systems, drivers, engines, etc.  
+I have been coding since 2013. Nowadays still exploring computes science :)  
 
 ## Languages  
 
