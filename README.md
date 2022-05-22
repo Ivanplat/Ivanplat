@@ -36,7 +36,7 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivanplat)](https://git.io/streak-stats)
 
 
 ## Statistics
