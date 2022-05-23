@@ -13,6 +13,8 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 ## Games (only public repositories)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=PlatformerGame)](https://github.com/Ivanplat/PlatformerGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=ShooterProject)](https://github.com/Ivanplat/ShooterProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivanplat&repo=ShooterProjectUnity)](https://github.com/Ivanplat/ShooterProjectUnity)
 
 ## Desktop development  
 
