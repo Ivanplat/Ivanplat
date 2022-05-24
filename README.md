@@ -69,8 +69,7 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 
 
 ## My Codewars  
-
-[![codewars](https://www.codewars.com/users/eventgraph/badges/large)](https://www.codewars.com/users/eventgraph)
+[![codewars](https://www.codewars.com/users/eventgraph/badges/large)](https://www.codewars.com/users/eventgraph)  
 
 
 ## Statistics
