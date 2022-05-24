@@ -68,6 +68,10 @@ I have been coding since 2013. Nowadays still exploring computes science :)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam)](https://store.steampowered.com/franchise/EventGraphDev)
 
 
+## My Codewars  
+
+[![codewars](https://www.codewars.com/users/eventgraph/badges/large)](https://www.codewars.com/users/eventgraph)
+
 
 ## Statistics
 
